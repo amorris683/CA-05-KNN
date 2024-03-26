@@ -50,5 +50,8 @@ pip install -r requirements.txt
 
 ## Authors
 
-- **Andrew Morris** - *Initial Work*
+- **Andrew Morris** 
+- **Lance Royston**
+- **Christy Hung** 
+- 
 
